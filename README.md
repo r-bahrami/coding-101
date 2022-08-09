@@ -3,7 +3,7 @@
 Contents
 
 - [Naming](#naming)
-- [](#)
+- [Visualization](#visualization)
 
 ## Naming
 ### Variables/Files/Functions with Sequential Names (dynamically variable names)
@@ -15,3 +15,9 @@ Contents
     and some useful [discussions](https://www.mathworks.com/matlabcentral/answers/304528-tutorial-why-variables-should-not-be-named-dynamically-eval)
     --> [EXAMPLE](https://github.com/m-bahrami/coding-201/tree/main/MATLAB#sequential-naming))
 
+## Visualization
+### plot style and configurations
+
+- MATLAB 
+
+    default settings
